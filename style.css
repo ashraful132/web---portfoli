@@ -91,7 +91,7 @@ section{
 #full{
     border-left:7px solid;
     border-image: linear-gradient(180deg, lightsalmon,tomato);
-    border-image-slice:2;,
+    border-image-slice:2;
 }
 #hero{
     border-left: 7px solid;
